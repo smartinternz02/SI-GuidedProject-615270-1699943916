@@ -61,6 +61,11 @@ The project also incorporates the Google Generative AI API (Palm) to generate in
 - [ ] Enhance the user interface for better user experience.
 - [ ] Implement user authentication for personalized experiences.
 
+## Contributors
+- []()
+- []()
+- []()
+- []()
 
 
 
