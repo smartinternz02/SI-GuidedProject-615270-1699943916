@@ -62,7 +62,7 @@ The project also incorporates the Google Generative AI API (Palm) to generate in
 - [ ] Implement user authentication for personalized experiences.
 
 ## Contributors
-- []()
+- [Arnika Rao](https://github.com/arnika-25/arnika-25)
 - []()
 - []()
 - []()
